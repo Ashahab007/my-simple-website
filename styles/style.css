@@ -1,0 +1,13 @@
+body {
+  padding: 10px;
+  text-align: center;
+  background-color: bisque;
+}
+
+h3 {
+  color: red;
+}
+
+div p {
+  text-align: justify;
+}
